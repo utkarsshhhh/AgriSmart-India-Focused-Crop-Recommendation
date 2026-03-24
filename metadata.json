@@ -1,0 +1,5 @@
+{
+  "name": "AgriSmart: India-Focused Crop Recommendation",
+  "description": "A full-stack crop recommendation system based on soil and weather parameters, featuring ML model evaluation metrics and India-specific agricultural insights.",
+  "requestFramePermissions": []
+}
